@@ -1,2 +1,3 @@
-# Mahenaz
-My portfolio website 
+index.html
+style.css
+photos
